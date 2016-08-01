@@ -1,5 +1,4 @@
 # stat-learning
-=============
 
 Notes and exercise attempts for "An Introduction to Statistical Learning"
 
@@ -14,6 +13,7 @@ Pull requests gladly accepted. If a pull request is too much effort, please at l
 
 Visit http://asadoughi.github.io/stat-learning for an index of exercise solutions.
 
-# related resources
+# Related resources
 - The free video resources provided by [BigData School](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 - free [pdf download](http://www-bcf.usc.edu/~gareth/ISL/)
+- [official web](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
