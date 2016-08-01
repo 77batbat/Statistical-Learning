@@ -1,4 +1,4 @@
-# stat-learning:
+# Statistical-Learning:
 Notes and exercise attempts for "An Introduction to Statistical Learning"
 
 ## Combined Github Repository
